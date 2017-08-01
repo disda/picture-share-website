@@ -1,0 +1,1 @@
+#  -*- coding:utf-8 -*-from pictureShare import appif __name__ == '__main__':  # 运行服务器    app.run (debug=True)
