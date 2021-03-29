@@ -25,7 +25,7 @@ post==0.0.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.2
 public==0.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 qiniu==7.1.4
 query-string==0.0.0
 requests==2.18.2
